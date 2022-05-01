@@ -11,4 +11,4 @@ Intrutor  Marcio Michelluzzi
 * Exercício 2
    * Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão 
 dos dois números lidos;
-  * [Resolução]()
+  * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicios2.java)
