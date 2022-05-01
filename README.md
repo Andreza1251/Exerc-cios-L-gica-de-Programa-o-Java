@@ -8,3 +8,7 @@ Intrutor  Marcio Michelluzzi
    * Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
    * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio01.java)
   
+* Exercício 2
+   * Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão 
+dos dois números lidos;
+  * [Resolução]()
