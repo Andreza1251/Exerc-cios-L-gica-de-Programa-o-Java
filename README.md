@@ -17,3 +17,8 @@ dos dois números lidos;
    * Escreva um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância 
 total percorrida pelo automóvel e o total de combustível gasto;
    * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio03.java)
+
+* Exercício 4
+   * Escreva um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês;
+   *  [Resolução]()
+
