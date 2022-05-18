@@ -25,3 +25,7 @@ total percorrida pelo automóvel e o total de combustível gasto;
 * Exercício 5
    * Escreva um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética);
    *  [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio05.java)
+
+* Exercício 6
+   * Leia dois valores para as variáveis A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados;
+   *  [Resolução]()
