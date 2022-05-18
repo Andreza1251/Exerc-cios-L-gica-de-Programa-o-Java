@@ -32,4 +32,4 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 7
    * Leia uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit. A fórmula de conversão é:F=(9*C+160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius;
-   * [Resolução]()
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio07.java)
