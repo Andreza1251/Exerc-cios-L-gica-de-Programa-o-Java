@@ -20,5 +20,8 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 4
    * Escreva um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês;
-   *  [Resolução]()
+   *  [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio4.java)
 
+* Exercício 
+   * Escreva um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética);
+   *  [Resolução]
