@@ -44,4 +44,4 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 10
    * A Loja Mamão com Açúcar está vendendo seus produtos em 5(cinco) prestações sem juros. Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações;
-   * [Resolução]()
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio10.java)
