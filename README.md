@@ -40,4 +40,8 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 9
    * Faça um algoritmo que receba um valor que foi depositado e exiba o valor com rendimento após um mês. Considere fixo o juro da poupança em 0,07% a. m;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio09.java)
+
+* Exercício 10
+   * A Loja Mamão com Açúcar está vendendo seus produtos em 5(cinco) prestações sem juros. Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações;
    * [Resolução]()
