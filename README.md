@@ -61,4 +61,8 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 14
    * Escreva um algoritmo que leia dois valores inteiro distintos e informe qual é o maior;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio14.java)
+
+* Exercício 15 
+   * Faça um algoritmo que receba um número e diga se este número está no intervalo entre 100 e 200;
    * [Resolução]()
