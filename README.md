@@ -57,4 +57,8 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 13
    * Faça um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 10;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio13.java)
+
+* Exercício 14
+   * Escreva um algoritmo que leia dois valores inteiro distintos e informe qual é o maior;
    * [Resolução]()
