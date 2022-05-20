@@ -73,4 +73,9 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 17
    * Leia 80 números e ao final informar quantos número(s) est(á)ão no intervalo entre 10 (inclusive) e 150 (inclusive);
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio17.java)
+
+* Exercício 18
+   * Faça um algoritmo que receba a idade de 75 pessoas e mostre mensagem informando “maior de idade” e “menor de idade” para cada pessoa. Considere a idade a partir de 18 anos como maior de idade;
    * [Resolução]()
+
