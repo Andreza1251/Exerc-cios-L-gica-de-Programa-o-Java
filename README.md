@@ -93,7 +93,12 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 22
    * Faça um algoritmo que receba o preço de custo e o preço de venda de 40 produtos. Mostre como resultado se houve lucro, prejuízo ou empate para cada produto. Informe o valor de custo de cada produto, o valor de venda de cada produto, a média de preço de custo e do preço de venda;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio22.java)
+
+* Exercício 23
+   * Faça um algoritmo que receba um número e mostre uma mensagem caso este número sege maior que 80, menor que 25 ou igual a 40;
    * [Resolução]()
+
 
 
 
