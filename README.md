@@ -96,9 +96,12 @@ total percorrida pelo automóvel e o total de combustível gasto;
    * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio22.java)
 
 * Exercício 23
-   * Faça um algoritmo que receba um número e mostre uma mensagem caso este número sege maior que 80, menor que 25 ou igual a 40;
-   * [Resolução]()
+   * Faça um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 80, menor que 25 ou igual a 40;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio23.java)
 
+* Exercício 24
+   * Faça um algoritmo que receba “N” números e mostre positivo, negativo ou zero para cada número;
+   * [Resolução]()
 
 
 
