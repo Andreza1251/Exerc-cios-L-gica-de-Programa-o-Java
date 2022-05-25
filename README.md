@@ -101,6 +101,10 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 24
    * Faça um algoritmo que receba “N” números e mostre positivo, negativo ou zero para cada número;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio24.java)
+
+* Exercício 25
+   * Faça um algoritmo que leia dois números e identifique se são iguais ou diferentes. Caso eles sejam iguais imprima uma mensagem dizendo que eles são iguais. Caso sejam diferentes, informe qual número é o maior, e uma mensagem que são diferentes;
    * [Resolução]()
 
 
