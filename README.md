@@ -89,6 +89,10 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 21
    * Escreva um algoritmo que leia os dados de “N” pessoas (nome, sexo, idade e saúde) e informe se está apta ou não para cumprir o serviço militar obrigatório. Informe os totais;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio21.java)
+
+* Exercício 22
+   * Faça um algoritmo que receba o preço de custo e o preço de venda de 40 produtos. Mostre como resultado se houve lucro, prejuízo ou empate para cada produto. Informe o valor de custo de cada produto, o valor de venda de cada produto, a média de preço de custo e do preço de venda;
    * [Resolução]()
 
 
