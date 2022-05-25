@@ -105,7 +105,12 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 25
    * Faça um algoritmo que leia dois números e identifique se são iguais ou diferentes. Caso eles sejam iguais imprima uma mensagem dizendo que eles são iguais. Caso sejam diferentes, informe qual número é o maior, e uma mensagem que são diferentes;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio25.java)
+
+* Exercício 26
+   * Faça um algoritmo que leia um número de 1 a 5 e escreva por extenso. Caso o usuário digite um número que não esteja neste intervalo, exibir a seguinte mensagem: número inválido;
    * [Resolução]()
+
 
 
 
