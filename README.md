@@ -122,9 +122,11 @@ total percorrida pelo automóvel e o total de combustível gasto;
     15% para aqueles que ganham acima de dez até vinte salários mínimos; 
     10% para os demais funcionários.
   Leia o nome do funcionário, seu salário e o valor do salário mínimo. Calcule o seu novo salário reajustado. Escrever o nome do funcionário, o reajuste e seu novo salário. Calcule quanto à empresa vai aumentar sua folha de pagamento;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio28.java)
+
+* Exercício 29
+   * Faça um algoritmo que receba o número do mês e mostre o mês correspondente. Valide mês inválido;
    * [Resolução]()
-
-
 
 
 
