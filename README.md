@@ -126,7 +126,12 @@ total percorrida pelo automóvel e o total de combustível gasto;
 
 * Exercício 29
    * Faça um algoritmo que receba o número do mês e mostre o mês correspondente. Valide mês inválido;
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio29.java)
+      
+* Exercicio 30
+   * Escreva um algoritmo que leia três valores inteiros distintos e os escreva em ordem crescente;
    * [Resolução]()
+   
 
 
 
