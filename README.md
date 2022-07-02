@@ -130,7 +130,7 @@ total percorrida pelo automóvel e o total de combustível gasto;
       
 * Exercicio 30
    * Escreva um algoritmo que leia três valores inteiros distintos e os escreva em ordem crescente;
-   * [Resolução]()
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio30.java)
    
 
 
