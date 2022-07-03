@@ -136,14 +136,21 @@ total percorrida pelo automóvel e o total de combustível gasto;
    * Dados três valores A, B e C, em que A e B são números reais e C é um caractere, pede-se para imprimir o resultado da operação de A por B se C for um símbolo de operador aritmético; caso contrário deve ser impressa uma mensagem de operador não definido. Tratar erro de divisão por zero;
    * [Resolução]()
   
-  * Exercício 32
+* Exercício 32
    * Escreva um algoritmo que leia três valores inteiros e verifique se eles podem ser os lados de um triângulo. Se forem, informar qual o tipo de triângulo que eles formam: equilátero, isóscele ou escaleno. Propriedade: o comprimento de cada lado de um triângulo é menor do que a soma dos comprimentos dos outros dois lados.
    * Triângulo Equilátero: aquele que tem os comprimentos dos três lados iguais; 
    * Triângulo Isóscele: aquele que tem os comprimentos de dois lados iguais.
    * Triângulo equilátero é também isóscele;
    * Triângulo Escaleno: aquele que tem os comprimentos de seus três lados diferentes;
 
-   * [Resolução]() 
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio32.java) 
+
+* Exercício 33
+   * A escola “APRENDER” faz o pagamento de seus professores por hora/aula. Faça um algoritmo que calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo:
+   * Professor Nível 1 R$12,00 por hora/aula;
+   * Professor Nível 2 R$17,00 por hora/aula;
+   * Professor Nível 3 R$25,00 por hora/aula.
+   * [Resolução]()
 
 
 
