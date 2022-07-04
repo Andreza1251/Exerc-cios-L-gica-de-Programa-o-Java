@@ -150,7 +150,7 @@ total percorrida pelo automóvel e o total de combustível gasto;
    * Professor Nível 1 R$12,00 por hora/aula;
    * Professor Nível 2 R$17,00 por hora/aula;
    * Professor Nível 3 R$25,00 por hora/aula.
-   * [Resolução]()
+   * [Resolução](https://github.com/Andreza1251/ExerciciosLogicadeProgramacaoJava/blob/main/src/logicaexerciciosiii/Exercicio33.java)
 
 
 
